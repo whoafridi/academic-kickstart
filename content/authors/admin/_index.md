@@ -69,7 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi there ! I'm Md. Rafiuzzaman Bhuiyan Afridi. Core member in DIU ML & NLP lab. Currently focus on building stae-of-art Bangla Question-asnwering system. Also done several research works. Some of them accepeted in International Conference. Passoinate lover of new tecnology . Learn new things is like a hobby. A Python lover . Also try to learn Machine Learning,Computer vision.
